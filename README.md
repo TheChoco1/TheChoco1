@@ -6,6 +6,6 @@
 
 ### Projects:
 
-* VBC Sports and Entertainment Calculator
-* NBA Stats (with website soon™)
+* Pomodoro Timer
+* NBA Stats (with website in the near future)
 * More soon...
