@@ -6,7 +6,4 @@
 
 ### Projects:
 
-* Pomodoro Timer
-* NBA Stats (with website in the near future)
-* Brawl Stars but scuffed (small java project for the funnies)
-* More soon...
+*Nothing...
